@@ -8,3 +8,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Deployment
+Deployment instructions go here
+Always take latest version before deploying
